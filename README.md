@@ -25,8 +25,15 @@ Requirements:
 - Pillow 5.3
 - Matplotlib 3.0
 
-## image scapping
+## Image scapping
 
 We have made two scripts for image scrapping from public webcams: https://www.webcamgalore.com
 
-Installation and usage is described in their folder readme's
+Installation and usage is described in their folder readme's.
+
+## Image classification
+
+To classify images as cloudy or sunny, we used Two-class Weather Classification (http://www.cse.cuhk.edu.hk/leojia/projects/weatherclassify/index.htm)
+
+Downloaded images are classified as cloudy or sunny, and put into respective folders.
+Additional MatLab script was made to make sure that both folders retain same size.

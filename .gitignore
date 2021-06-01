@@ -1,0 +1,7 @@
+images/**/**
+images/**
+!images
+!images/content
+!images/style
+!images/cloudy
+!images/sunny
