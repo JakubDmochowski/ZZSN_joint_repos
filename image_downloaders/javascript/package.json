@@ -1,0 +1,17 @@
+{
+  "name": "downloader",
+  "version": "1.0.0",
+  "description": "downloads pictures from webcams",
+  "main": "downloader.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "follow-redirects": "^1.13.3",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jakub Dmochowski",
+  "license": "ISC"
+}
