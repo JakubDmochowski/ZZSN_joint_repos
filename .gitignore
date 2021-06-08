@@ -5,3 +5,5 @@ images/**
 !images/style
 !images/cloudy
 !images/sunny
+!images/content/C*
+!images/style/S*
